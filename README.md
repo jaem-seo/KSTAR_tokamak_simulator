@@ -1,6 +1,6 @@
 # KSTAR tokamak simulator
 - KSTAR is a tokamak (donut-shaped nuclear fusion device) located in Daejeon, South Korea.
-- This repository provides a tokamak simulator with LSTM-based neural network.
+- This repository provides a tokamak simulation tool with LSTM-based neural network.
 
 # Installation
 - You can install by
