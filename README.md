@@ -10,7 +10,7 @@ cd KSTAR_tokamak_simulator
 ```
 
 # Try it out
-- Open the GUI. It might take a bit.
+- Open the GUI by typing below. It might take a bit depending on your environment.
 ```
 python kstar_simulator_v0.py
 ```
