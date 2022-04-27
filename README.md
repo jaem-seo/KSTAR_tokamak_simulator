@@ -19,8 +19,10 @@ python kstar_simulator_v0.py
 - I hope you get insight with this tool!
 
 # Note
-- This simulation does not guarantee perfect predictions since it does not account for all factors.
-- However, it provides a reasonable, average prediction under the given operation condition as shown below.
+- This simulation has been validated with many real discharges, and shows acceptable prediction.
+![23819](https://user-images.githubusercontent.com/46472432/165522817-bc56771f-600b-4c7c-a9c3-4da0256bfe3e.png)
+- But it does not always guarantee perfect predictions since it doesn't account for all factors.
+- However, it provides a reasonable, average prediction under the given operation condition as shown below (two experiments were conducted under almost the same setting).
 ![uncertainty](https://user-images.githubusercontent.com/46472432/165521918-bd6969bf-31e0-4bf8-8848-f6ee6afeefaa.png)
 
 # References
