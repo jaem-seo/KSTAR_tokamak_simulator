@@ -1,1 +1,1 @@
-# KSTAR_NN_simulator
+# KSTAR_LSTM_simulator
