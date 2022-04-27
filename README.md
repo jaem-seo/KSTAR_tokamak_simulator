@@ -14,6 +14,7 @@ cd KSTAR_tokamak_simulator
 ```
 python kstar_simulator_v0.py
 ```
+![gui](https://user-images.githubusercontent.com/46472432/165520027-c4f79698-a816-49a3-8e75-fd44985ad95c.png)
 - Slide the toggles in the left side and see the fusion plasma evolution in the right side.
 
 # References
