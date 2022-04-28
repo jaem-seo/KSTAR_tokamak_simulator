@@ -23,7 +23,7 @@ python kstar_simulator_v0.py
   <img src="https://user-images.githubusercontent.com/46472432/165654530-c8230a8c-e9a7-4574-bae3-bab646bb61dc.gif">
 </p>
 
-- I hope you get insight with this tool!
+- I hope you get insight with this virtual experiment!
 
 # Note
 - This simulation has been validated with many real discharges, and shows acceptable prediction.
