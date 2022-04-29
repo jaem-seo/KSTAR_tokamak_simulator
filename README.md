@@ -5,14 +5,14 @@
 # Installation
 - You can install by
 ```
-git clone https://github.com/Jaemin-Seo-0614/KSTAR_tokamak_simulator.git
-cd KSTAR_tokamak_simulator
+$ git clone https://github.com/Jaemin-Seo-0614/KSTAR_tokamak_simulator.git
+$ cd KSTAR_tokamak_simulator
 ```
 
 # Try it out
 - Open the GUI by typing below. It might take a bit depending on your environment.
 ```
-python kstar_simulator_v0.py
+$ python kstar_simulator_v0.py
 ```
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46472432/165520027-c4f79698-a816-49a3-8e75-fd44985ad95c.png">
