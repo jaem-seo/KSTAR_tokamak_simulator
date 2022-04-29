@@ -26,13 +26,13 @@ $ python kstar_simulator_v0.py
 - I hope you get insight with this virtual experiment!
 
 # Note
-- This simulation has been validated with many real discharges, and shows acceptable prediction.
+- This simulation has been tested with many real discharges, and shows acceptable prediction accuracy.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46472432/165522817-bc56771f-600b-4c7c-a9c3-4da0256bfe3e.png">
 </p>
 
-- But it does not always guarantee perfect predictions since it doesn't account for all factors.
-- For example, the discharges #18672 and #22671 were conducted under almost the same setting, but showed quite different behaviors.
+- But it does not always guarantee perfect prediction since it doesn't account for all unknown factors.
+- For example, the experiments #18672 and #22671 were conducted under almost the same setting, but showed quite different behaviors.
 - In this case, the simulation shows quite a reasonable, average prediction as shown below.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46472432/165521918-bd6969bf-31e0-4bf8-8848-f6ee6afeefaa.png">
