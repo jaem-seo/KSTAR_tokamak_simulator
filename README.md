@@ -5,7 +5,7 @@
 # Installation
 - You can install by
 ```
-$ git clone https://github.com/Jaemin-Seo-0614/KSTAR_tokamak_simulator.git
+$ git clone https://github.com/jaem-seo/KSTAR_tokamak_simulator.git
 $ cd KSTAR_tokamak_simulator
 ```
 
