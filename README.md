@@ -1,6 +1,6 @@
 # KSTAR tokamak simulator (KSTAR-NN)
-- KSTAR is a tokamak (donut-shaped nuclear fusion device) located in Daejeon, South Korea.
-- This repository provides a tokamak simulation tool with LSTM-based neural network.
+- KSTAR is a tokamak (donut-shaped nuclear fusion device) located in South Korea.
+- This repository provides a KSTAR tokamak simulation tool with LSTM-based neural network.
 
 # Installation
 - You can install by
@@ -67,5 +67,5 @@ Terms
 ```
 
 # References
-- Seo, Jaemin, et al. "Feedforward beta control in the KSTAR tokamak by deep reinforcement learning." Nuclear Fusion 61.10 (2021): 106010.
+- [Seo, Jaemin, et al. "Feedforward beta control in the KSTAR tokamak by deep reinforcement learning." Nuclear Fusion 61.10 (2021): 106010.](https://iopscience.iop.org/article/10.1088/1741-4326/ac121b/meta)
 - Seo, Jaemin, et al. Nuclear Fusion (2022) (In review).
