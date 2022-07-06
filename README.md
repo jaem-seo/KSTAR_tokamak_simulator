@@ -68,5 +68,5 @@ Terms
 ```
 
 # References
-- Seo, Jaemin, et al. "Feedforward beta control in the KSTAR tokamak by deep reinforcement learning." Nuclear Fusion [61.10 (2021): 106010.](https://iopscience.iop.org/article/10.1088/1741-4326/ac121b/meta)
-- Seo, Jaemin, et al. Nuclear Fusion (2022) (In review).
+- J. Seo, et al. "Feedforward beta control in the KSTAR tokamak by deep reinforcement learning." Nuclear Fusion [61 (2021): 106010.](https://iopscience.iop.org/article/10.1088/1741-4326/ac121b/meta)
+- J. Seo, et al. "Development of an operation trajectory design algorithm for control of multiple 0D parameters using deep reinforcement learning in KSTAR." Nuclear Fusion [62 (2022): 086049.](https://iopscience.iop.org/article/10.1088/1741-4326/ac79be/meta)
